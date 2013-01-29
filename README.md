@@ -13,4 +13,4 @@ Esta versión "completa" se encuentra en español y ingles usando los sitemas de
 
 INFO
 ============================
-Twitter -> https://twitter.com/6a8r133l
+Twitter -> https://twitter.com/gaf09
